@@ -1,0 +1,19 @@
+{
+  "methods": {
+    "notification": {
+      "name": "Send Notification",
+      "arguments": [
+        {
+          "type": "text",
+          "name": "Notification Title",
+          "placeholder": "Title"
+        },
+        {
+          "type": "text",
+          "name": "Notification Content",
+          "placeholder": "Content"
+        }
+      ]
+    }
+  }
+}
